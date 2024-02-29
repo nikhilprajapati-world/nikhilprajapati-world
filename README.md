@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @nikhilprajapati-world
-- 👀 I’m interested in Azure, Terraform and IaC
+- 👀 Exploring interest in Azure, Terraform and IaC
 - 🌱 I’m currently learning Red Hat OpenShift, Git and Terraform
+- 🚀 Learning GoLang from zero 
 
 <!---
 nikhilprajapati-world/nikhilprajapati-world is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
